@@ -1,0 +1,19 @@
+* {
+  margin:0px;
+}
+
+.app {
+  display: grid;
+  place-items: center;
+  background-image: url("https://fsb.zobj.net/crop.php?r=KDPlRnG4IspPA3mpO2Jns3QWlJXoH1VeGVwogQOLbT9QIzYvLAzoanX6pmZ7JQ50oeh2wBUh9sPCPhmsjW_T05UdlSEjfEWqPLdfkgVZCzwghrgJDOg8hpI7NKsRfgDfman9gUKestTuDCXVueYVMxd81aoT99PEamn4Qkzm3dd2yJLKIVtcDUgfWiA");
+  background-repeat: repeat;
+  height: 100vh;
+}
+
+.app__body {
+  display: flex;
+  background-color: #ededed;
+  height: 90vh;
+  width: 90vw;
+  box-shadow: -1px 4px 20px -6px;
+}
